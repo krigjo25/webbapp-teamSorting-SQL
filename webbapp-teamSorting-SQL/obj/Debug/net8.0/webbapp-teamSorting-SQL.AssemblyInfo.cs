@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webbapp-teamSorting-SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01797220561fdb99809d3f4d7ca169865f57af21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eddb49dbc49771cf4df663607813b1c5b3f9c47c")]
 [assembly: System.Reflection.AssemblyProductAttribute("webbapp-teamSorting-SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webbapp-teamSorting-SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
